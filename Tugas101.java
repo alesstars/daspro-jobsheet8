@@ -5,7 +5,7 @@ public class Tugas101 {
         
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Masukkan nilai n: ");
+        System.out.print("Masukkan nilai n = ");
         int n = sc.nextInt();
 
         for (int i = 1; i <= n; i++) {
