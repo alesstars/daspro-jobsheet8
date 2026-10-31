@@ -44,7 +44,7 @@ public class Tugas301 {
 
                     barangPerToko += jmlBarang;
 
-                }
+            }
 
                 barangSeluruhToko += barangPerToko;
 
